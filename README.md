@@ -7,3 +7,5 @@ The video assistant referee (VAR) is a football assistant referee who reviews de
 3) Feature extraction from tweet text
 4) Vader Sentiment Analysis
 5) Sentiment score and visualization
+
+# Vader Sentiment analysis

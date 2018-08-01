@@ -9,11 +9,11 @@ The video assistant referee (VAR) is a football assistant referee who reviews de
 5) Sentiment score and visualization
 
 # Vader Sentiment analysis
-Five simple heuristics are:
-1)punctuation
+Five simple heuristics are:\n
+1)punctuation\n
 2)capitalization
 3)degree modifiers
-4)shift in polarity due to ìbutî
+4)shift in polarity due to ‚Äúbut‚Äù
 5)examining the tri-gram before a sentiment-laden lexical feature to catch polarity negation
   
  for more information on Vader sentiment analysis please refer 

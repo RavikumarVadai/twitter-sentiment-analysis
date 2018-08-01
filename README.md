@@ -9,15 +9,16 @@ The video assistant referee (VAR) is a football assistant referee who reviews de
 5) Sentiment score and visualization
 
 # Vader Sentiment analysis(lexicon method)
-VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is†specifically attuned to sentiments expressed in social media. VADER text sentiment analysis uses†a human-centric approach, combining†qualitative analysis and†empirical validation by using human ratings and the wisdom of the crowd. It combines a dictionary, which maps lexical features to emotion intensity, and five simple heuristics, which encode how contextual elements increment, decrement, or negate the sentiment of text.
+VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is¬†specifically attuned to sentiments expressed in social media. VADER text sentiment analysis uses¬†a human-centric approach, combining¬†qualitative analysis and¬†empirical validation by using human ratings and the wisdom of the crowd. It combines a dictionary, which maps lexical features to emotion intensity, and five simple heuristics, which encode how contextual elements increment, decrement, or negate the sentiment of text.
+
 Five simple heuristics are:
 1)punctuation
 2)capitalization
 3)degree modifiers
-4)shift in polarity due to ìbutî
+4)shift in polarity due to ‚Äúbut‚Äù
 5)examining the tri-gram before a sentiment-laden lexical feature to catch polarity negation
   
- for more information on Vader sentiment analysis please refer 
+ for more information on Vader sentiment analysis please refer
  http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf
  http://datameetsmedia.com/vader-sentiment-analysis-explained/
  https://github.com/cjhutto/vaderSentiment
